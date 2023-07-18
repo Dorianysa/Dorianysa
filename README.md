@@ -1,4 +1,18 @@
+###
+---
 ## Hello, world! 👋
+
+
+Welcome to my GitHub space. I'm Dorianys, an enthusiastic student at Laboratoria's coding bootcamp, learning to program with passion and determination! 💻
+
+<p align="center">
+
+<img src="./assets/img/dorycat.png" alt="Dorycat" width="200px" height="auto">
+</p>
+
+###
+---
+
 
 Welcome to my GitHub space. I'm Dorianys, an enthusiastic student at Laboratoria's coding bootcamp, learning to program with passion and determination! 💻
 
@@ -21,14 +35,6 @@ Happy coding! 😄
 
 ###
 ---
-<p align="left">
-
-<img src="./assets/img/dorycat.png" alt="Dorycat" width="200px" height="auto">
-</p>
-
-###
----
-
 
 <h3 align="center">✨ Tools & Languages ✨</h3>
 
@@ -65,3 +71,5 @@ Happy coding! 😄
 ![dorianysa GitHub stats](https://github-readme-stats.vercel.app/api?username=dorianysa&theme=gruvbox&rank_icon=github&show_icons=true)
 
 </div>
+---
+
