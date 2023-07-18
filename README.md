@@ -14,9 +14,9 @@ Welcome to my GitHub space. I'm Dorianys, an enthusiastic student at Laboratoria
 ---
 
 
-Welcome to my GitHub space. I'm Dorianys, an enthusiastic student at Laboratoria's coding bootcamp, learning to program with passion and determination! 💻
 
-✨ My superpowers include:
+
+## ✨ My superpowers include:
 
 - **JavaScript**: My primary weapon for creating interactivity and bringing web pages to life.
 - **HTML**: The language with which I build the solid foundations of my projects.
