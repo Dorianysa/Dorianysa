@@ -19,16 +19,22 @@ Follow me on this journey and discover how code can change the world! 🚀✨
 
 Happy coding! 😄
 
-
-
+###
+---
 <p align="left">
 
 <img src="./assets/img/dorycat.png" alt="Dorycat" width="200px" height="auto">
 </p>
 
-<div align="left">
+###
+---
 
-<p align="left"> 
+
+<h3 align="center">✨ Tools & Languages ✨</h3>
+
+<div align="center">
+
+<p align="center"> 
 
 
   <img src="./assets/img/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
